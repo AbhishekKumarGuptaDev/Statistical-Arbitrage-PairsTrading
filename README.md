@@ -316,6 +316,7 @@ Real-world trading involves financial risk.
 ### Abhishek Kumar Gupta
 
 B.Tech CSE (AI & ML)
+
 Machine Learning • Quantitative Research • Financial Modeling
 
 🔗 LinkedIn
